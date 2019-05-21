@@ -1,0 +1,7 @@
+C:\Users\kotit\Source\Repos\semen-kostin\prog-2019\QuickSorter\QuickSorter\bin\Debug\QuickSorter.exe.config
+C:\Users\kotit\Source\Repos\semen-kostin\prog-2019\QuickSorter\QuickSorter\bin\Debug\QuickSorter.exe
+C:\Users\kotit\Source\Repos\semen-kostin\prog-2019\QuickSorter\QuickSorter\bin\Debug\QuickSorter.pdb
+C:\Users\kotit\Source\Repos\semen-kostin\prog-2019\QuickSorter\QuickSorter\obj\Debug\QuickSorter.csproj.CoreCompileInputs.cache
+C:\Users\kotit\Source\Repos\semen-kostin\prog-2019\QuickSorter\QuickSorter\obj\Debug\QuickSorter.exe
+C:\Users\kotit\Source\Repos\semen-kostin\prog-2019\QuickSorter\QuickSorter\obj\Debug\QuickSorter.pdb
+C:\Users\kotit\Source\Repos\semen-kostin\prog-2019\QuickSorter\QuickSorter\obj\Debug\QuickSorter.csprojResolveAssemblyReference.cache
